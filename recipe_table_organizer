@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html
+ 
+lang="en">
+
+<head>
+    
+<meta
+ 
+charset="UTF-8">
+
+    
+<meta
+ 
+name="viewport"
+ 
+content="width=device-width, initial-scale=1.0">
+
+    
+<title>Recipe Organizer</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Recipe Organizer</h1>
+
+    <table>
+        <tr>
+            <th>Recipe Name</th>
+            <th>Ingredients</th>
+            <th>Instructions</th>
+            <th>Cooking Time</th>
+            <th>Links</th>
+        </tr>
+
+        <tr>
+            <td>Chocolate Chip Cookies</td>
+            <td>2 1/4 cups all-purpose flour, 1 teaspoon baking soda, 1 teaspoon salt, 1 cup (2 sticks) unsalted butter, softened, 3/4 cup granulated sugar, 3/4 cup packed light brown sugar, 2 large eggs, 2 teaspoons pure vanilla extract, 2 cups semisweet chocolate chips</td>
+            <td>Preheat oven to 375 degrees F (190 degrees C). Line baking sheets with parchment paper. In a medium bowl, whisk together flour, baking soda, and salt. Set aside. In a large bowl, cream together butter and sugars until light and fluffy. Beat in eggs one at a time, then stir in vanilla. Gradually add dry ingredients to wet ingredients, mixing until just combined. Stir in chocolate chips. Drop rounded tablespoons of dough onto prepared baking sheets. Bake for 10-12 minutes, or until golden brown. Let cool on baking sheets for a few minutes before transferring to a wire rack to cool completely.</td>
+            <td>10-12 minutes</td>
+            <td><a href="https://www.allrecipes.com/recipe/2413/best-chocolate-chip-cookies/">Allrecipes.com</a></td>
+        </tr>
+
+        <tr>
+            <td>Spaghetti with Meatballs</td>
+            <td>1 pound ground beef, 1/2 cup Italian bread crumbs, 1/4 cup grated Parmesan cheese, 1 large egg, 1/4 cup chopped fresh parsley, 1/4 teaspoon salt, 1/4 teaspoon black pepper, 1 (28-ounce) can crushed tomatoes, 1 (15-ounce) can diced tomatoes, 1 (8-ounce) can tomato sauce, 1 medium onion, chopped, 2 cloves garlic, minced, 1 tablespoon olive oil, 1 teaspoon dried oregano, 1/2 teaspoon dried basil, 1/4 teaspoon salt, 1/4 teaspoon black pepper, 1 pound spaghetti</td>
+            <td>In a large bowl, combine ground beef, bread crumbs, Parmesan cheese, egg, parsley, salt, and pepper. Mix well and form into meatballs. Heat olive oil in a large skillet over medium heat. Add meatballs and cook until browned on all sides. Drain excess grease. In a large pot, bring water to a boil and add spaghetti. Cook according to package directions. In a separate pot, combine crushed tomatoes, diced tomatoes, tomato sauce, onion, garlic, oregano, basil, salt, and pepper. Bring to a simmer and cook for 15 minutes. Drain spaghetti and add to the tomato sauce. Toss to coat. Serve spaghetti with meatballs.</td>
+            <td>20-25 minutes</td>
+            <td><a href="https://www.foodnetwork.com/recipes/alton-brown/spaghetti-and-meatballs-recipe-1944846">Food Network</a></td>
+        </tr>
+
+        <tr>
+            <td>Chicken Fried Rice</td>
+            <td>1 tablespoon vegetable oil, 3 cups cooked white rice, 1/2 pound boneless, skinless chicken breasts, diced, 1/2 cup diced carrots, 1/2 cup diced onion, 1/4 cup diced celery, 2 tablespoons soy sauce, 1 tablespoon oyster sauce, 1 teaspoon sesame oil, 1/4 teaspoon salt, 1/4 teaspoon pepper</td>
+            <td>Heat vegetable oil in a large skillet over medium heat. Add chicken and cook until browned and cooked through. Add carrots, onion, and celery and cook for 5 minutes, or until softened. Add rice, soy sauce, oyster sauce, sesame oil, salt, and pepper. Cook, stirring, until heated through.</td>
+            <td>20-25 minutes</td>
+            <td><a href="https://www
